@@ -1,6 +1,6 @@
 # Bienvenido a lobo-steam 
 
-En nombre de la organización lobo-steam, les doy la más cordial bienvenida.Soy [@LoboGuardian](https://github.com/LoboGuardian), el orgulloso fundador de la misma, apasionado por la ciencia, la tecnología, la robótica educativa y la formación de las futuras generaciones.
+En nombre de la organización lobo-steam, les doy la más cordial bienvenida. Soy [@LoboGuardian](https://github.com/LoboGuardian), el orgulloso fundador de la misma, apasionado por la ciencia, la tecnología, la robótica educativa y la formación de las futuras generaciones.
 
 <hr>
 
